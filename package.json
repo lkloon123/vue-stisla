@@ -1,0 +1,11 @@
+{
+  "name": "vue-stisla",
+  "version": "0.0.1",
+  "description": "stisla integration in vue",
+  "author": "NeoSon <lkloon123@hotmail.com>",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.9"
+  }
+}
